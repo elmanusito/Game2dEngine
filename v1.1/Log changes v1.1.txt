@@ -1,0 +1,2 @@
+Se mejoró la precarga de imagenes.
+checkIndicators para saber que sucede cuando se le acaban los corazones, armadura, etc.
